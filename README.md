@@ -1,6 +1,6 @@
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVzbG1xM2R1YWJoN2pteDJodHQ3d2w1MnN3MmZzYWRiaGd0cWIxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
+<img align="right" alt="Coding" width="400" style="display:block" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVzbG1xM2R1YWJoN2pteDJodHQ3d2w1MnN3MmZzYWRiaGd0cWIxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
 
 - 🔭 I’m currently working on [blog website](https://github.com/AyoubMouhssine/sample-blog)
 
